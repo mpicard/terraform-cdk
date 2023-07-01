@@ -13,7 +13,7 @@
     "ts-node": "^10.9.1"
   },
   "dependencies": {
-    "@octokit/rest": "^19.0.4",
+    "@octokit/rest": "^19.0.11",
     "@octokit/graphql": "^5.0.1"
   }
 }
